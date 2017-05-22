@@ -28,6 +28,6 @@ msdos  |
 vfat  |  
 hpfs  |  
 nfs  |  
-swap  |  
+swap  |  Emmanuel Zúñiga
 sysv  |  
 btrfs  |  Jorge I Flores

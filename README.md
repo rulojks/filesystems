@@ -16,6 +16,9 @@ En el desarrollo del trabajo, deberás describir sus características, su propos
 
 Mínimo dos cuartillas
 
+Fecha de entrega: Se tomarán en cuenta los commits publicados hasta el **31 de Mayo de 2017**
+
+
 FIlesystem  |  Alumno  
 --|--
 ext4  |  
